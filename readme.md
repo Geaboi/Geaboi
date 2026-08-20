@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dustin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&color=0e75b6&lines=CS+%40+University+of+Florida;Building+AI+for+Parkinson's+diagnosis;Homelab+tinkerer+and+C%2B%2B+grinder" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&color=0e75b6&lines=Backend+%2B+AI+developer;CS+%40+University+of+Florida;Building+AI+pipelines+for+Parkinson's+diagnosis;APIs,+data+pipelines,+and+ML" alt="typing"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🔭 What I'm building
 
-**[PAID (Parkinson's AI Diagnosis Tool)(https://github.com/MendezCarl/SSL_ParkinsonsDisease_Fork)]** A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
+**[PAID (Parkinson's AI Diagnosis Tool)](https://github.com/MendezCarl/SSL_ParkinsonsDisease_Fork)** A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
 
 **[REACT](https://github.com/smashlab-uf/REACT)** A JITAI emotional regulation pipeline study app at UF.
 
