@@ -13,9 +13,9 @@
 
 ### 🔭 What I'm building
 
-**[PAID (Parkinson's AI Diagnosis Tool)]** A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
+**[PAID (Parkinson's AI Diagnosis Tool)(https://github.com/MendezCarl/SSL_ParkinsonsDisease_Fork)]** A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
 
-**[REACT](https://github.com/smashlab-uf/REACT)** a JITAI emotional regulation pipeline study app at UF.
+**[REACT](https://github.com/smashlab-uf/REACT)** A JITAI emotional regulation pipeline study app at UF.
 
 ---
 
