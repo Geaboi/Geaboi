@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dustinnwin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.topcoder.com/members/32258-9453"><img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"/></a>
   <a href="mailto:dustinn1204@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -14,11 +13,9 @@
 
 ### 🔭 What I'm building
 
-**[PAID (Parkinson's AI Diagnosis Tool)](PASTE_PAID_REPO_URL)** at UF's Smart Systems Lab. A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
+**[PAID (Parkinson's AI Diagnosis Tool)]** A motor assessment pipeline that reads pose keypoints from video with MediaPipe and turns movement into a signal you can score.
 
-**[Homelab](PASTE_HOMELAB_REPO_URL).** A headless Raspberry Pi booting off NVMe, reachable from anywhere through Tailscale, on its way to running k3s and hosting my own services.
-
-**[Competitive programming](PASTE_CP_REPO_URL).** Grinding algorithms and data structures in C++.
+**[REACT](https://github.com/smashlab-uf/REACT)** a JITAI emotional regulation pipeline study app at UF.
 
 ---
 
